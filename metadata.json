@@ -1,0 +1,6 @@
+{
+  "name": "Ultimate Parking Challenge",
+  "description": "A high-fidelity 3D car parking simulator featuring realistic vehicle physics, multi-level challenges, responsive controls, and immersive daytime environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
